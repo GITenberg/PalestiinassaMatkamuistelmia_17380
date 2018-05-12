@@ -1,0 +1,30 @@
+_repo: PalestiinassaMatkamuistelmia_17380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hildén, Kaarle August
+    aliases:
+    - Hildén, Karl August
+    - Hilden, Kaarle August
+    birthdate: 1853
+    gutenberg_agent_id: '7336'
+    url: http://www.gutenberg.org/2009/agents/7336
+description: ''
+gutenberg_issued: '2005-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17380'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcc 'DS'
+title: 'Palestiinassa
+
+  Matkamuistelmia'
+url: http://www.gutenberg.org/ebooks/17380
